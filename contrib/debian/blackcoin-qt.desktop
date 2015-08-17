@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Boodle
+Comment=Boodle P2P Cryptocurrency
+Comment[fr]=Boodle, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Boodle, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/Boodle-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/Boodle;
+Categories=Office;
